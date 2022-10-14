@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x "$PYFILE" & ./"$PYFILE"
+chmod +x "$PYFILE" & /*"$PYFILE"
