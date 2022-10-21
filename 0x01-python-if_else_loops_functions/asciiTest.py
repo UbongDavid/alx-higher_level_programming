@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+for i in range(1,127,1):
+    print ("{}={}".format(i,chr(i)),end=' ')
