@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+import sys
+
+argSum = 0
+for i in range(1, len(sys.argv)):
+    if i == 0:
+        continue
+    argSum = argSum + int(sys.argv[i])
+print(argSum)
