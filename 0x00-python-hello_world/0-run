@@ -1,2 +1,0 @@
-#!/bin/bash
-Chmod +x $PYFILE; ./$PYFILE
